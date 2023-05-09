@@ -1,5 +1,3 @@
-Name: Xuan Ton Nguyen
-Student ID: 7757927
 
 To compile my program, you can type on terminal:
 make
@@ -22,8 +20,5 @@ To clear the program, you can type:
 rm A4FINAL
 
 
-I tried my best to make this program, hope you give some good consideration for my hard work. I would appreciate a lot
-
-Thank you so much!
 
 

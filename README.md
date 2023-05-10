@@ -2,15 +2,15 @@
 To compile my program, you can type on terminal:
 make
 
-To run 'info' command, you can type on terminal:
+To get information of the FAT32 file named 'a4image', run 'info' command, you can type on terminal:
 
 ./A4FINAL a4image info
 
-To run 'list' command, you can type on terminal:
+To get list of file name and name of directories inside the FAT32 file named 'a4image' run 'list' command, you can type on terminal:
 
 ./A4FINAL a4image list
 
-To run 'get' command, you can type on terminal:
+To get the specific file name such as 'PANDP.TXT',  run 'get' command, you can type on terminal:
 
 ./A4FINAL a4image get BOOKS/PANDP.TXT
 
